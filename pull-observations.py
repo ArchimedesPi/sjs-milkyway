@@ -27,10 +27,14 @@ observations = [tag.string.strip() for tag in observation_tags]
 our_obs = [re.sub(r'\.htm$', '', o) for o in observations
                 if re.match(OBS_REGEX+r'/\S*', o)]
 
+manifest = []
+
 for obs in our_obs:
     obs_url = 'http://www.gb.nrao.edu/20m/peak/' + obs + '.spect.cyb.txt'
     obs_matches = re.match(OBS_REGEX+r'/\S*', obs)
     obs_file = 'data/' + 'LACH-' + obs_matches.group(1) + '-' + obs_matches.group(2) + '.spect.cyb.txt'
+
+    manifest.append({'lat': 0, 'lon': obs_matches.group(2), 'observer': obs_matches.group(1)})
 
     print(Fore.GREEN + Style.BRIGHT + ("Downloading %s" % obs) + Style.RESET_ALL)
 
@@ -40,5 +44,7 @@ for obs in our_obs:
         for data in tqdm(response.iter_content()):
             f.write(data)
 
+with open('datamanifest.json') as f:
+    f.write(json.dumps(manifest, sort_keys=True, indent=2))
 
 sys.stdout.write(Style.RESET_ALL)
