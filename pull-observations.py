@@ -47,7 +47,7 @@ for obs in our_obs:
         for data in tqdm(response.iter_content()):
             f.write(data)
 
-with open('datamanifest.json') as f:
+with open('datamanifest.json', 'w') as f:
     f.write(json.dumps(manifest, sort_keys=True, indent=2))
 
 sys.stdout.write(Style.RESET_ALL)
