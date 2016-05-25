@@ -1,0 +1,1213 @@
+[
+  {
+    "file": "data/LACH-HHG-91.spect.cyb.txt",
+    "lat": 0,
+    "lon": "91",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-92.spect.cyb.txt",
+    "lat": 0,
+    "lon": "92",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-93.spect.cyb.txt",
+    "lat": 0,
+    "lon": "93",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-94.spect.cyb.txt",
+    "lat": 0,
+    "lon": "94",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-95.spect.cyb.txt",
+    "lat": 0,
+    "lon": "95",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-96.spect.cyb.txt",
+    "lat": 0,
+    "lon": "96",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-97.spect.cyb.txt",
+    "lat": 0,
+    "lon": "97",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-98.spect.cyb.txt",
+    "lat": 0,
+    "lon": "98",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-99.spect.cyb.txt",
+    "lat": 0,
+    "lon": "99",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-100.spect.cyb.txt",
+    "lat": 0,
+    "lon": "100",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-101.spect.cyb.txt",
+    "lat": 0,
+    "lon": "101",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-102.spect.cyb.txt",
+    "lat": 0,
+    "lon": "102",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-103.spect.cyb.txt",
+    "lat": 0,
+    "lon": "103",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-104.spect.cyb.txt",
+    "lat": 0,
+    "lon": "104",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-105.spect.cyb.txt",
+    "lat": 0,
+    "lon": "105",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-106.spect.cyb.txt",
+    "lat": 0,
+    "lon": "106",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-107.spect.cyb.txt",
+    "lat": 0,
+    "lon": "107",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-108.spect.cyb.txt",
+    "lat": 0,
+    "lon": "108",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-109.spect.cyb.txt",
+    "lat": 0,
+    "lon": "109",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-110.spect.cyb.txt",
+    "lat": 0,
+    "lon": "110",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-111.spect.cyb.txt",
+    "lat": 0,
+    "lon": "111",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-112.spect.cyb.txt",
+    "lat": 0,
+    "lon": "112",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-74.spect.cyb.txt",
+    "lat": 0,
+    "lon": "74",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-75.spect.cyb.txt",
+    "lat": 0,
+    "lon": "75",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-76.spect.cyb.txt",
+    "lat": 0,
+    "lon": "76",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-77.spect.cyb.txt",
+    "lat": 0,
+    "lon": "77",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-78.spect.cyb.txt",
+    "lat": 0,
+    "lon": "78",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-79.spect.cyb.txt",
+    "lat": 0,
+    "lon": "79",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-80.spect.cyb.txt",
+    "lat": 0,
+    "lon": "80",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-81.spect.cyb.txt",
+    "lat": 0,
+    "lon": "81",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-82.spect.cyb.txt",
+    "lat": 0,
+    "lon": "82",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-83.spect.cyb.txt",
+    "lat": 0,
+    "lon": "83",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-84.spect.cyb.txt",
+    "lat": 0,
+    "lon": "84",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-85.spect.cyb.txt",
+    "lat": 0,
+    "lon": "85",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-86.spect.cyb.txt",
+    "lat": 0,
+    "lon": "86",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-87.spect.cyb.txt",
+    "lat": 0,
+    "lon": "87",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-88.spect.cyb.txt",
+    "lat": 0,
+    "lon": "88",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-89.spect.cyb.txt",
+    "lat": 0,
+    "lon": "89",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-90.spect.cyb.txt",
+    "lat": 0,
+    "lon": "90",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-113.spect.cyb.txt",
+    "lat": 0,
+    "lon": "113",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-114.spect.cyb.txt",
+    "lat": 0,
+    "lon": "114",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-115.spect.cyb.txt",
+    "lat": 0,
+    "lon": "115",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-116.spect.cyb.txt",
+    "lat": 0,
+    "lon": "116",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-117.spect.cyb.txt",
+    "lat": 0,
+    "lon": "117",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-118.spect.cyb.txt",
+    "lat": 0,
+    "lon": "118",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-119.spect.cyb.txt",
+    "lat": 0,
+    "lon": "119",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-120.spect.cyb.txt",
+    "lat": 0,
+    "lon": "120",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-121.spect.cyb.txt",
+    "lat": 0,
+    "lon": "121",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-122.spect.cyb.txt",
+    "lat": 0,
+    "lon": "122",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-123.spect.cyb.txt",
+    "lat": 0,
+    "lon": "123",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-124.spect.cyb.txt",
+    "lat": 0,
+    "lon": "124",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-125.spect.cyb.txt",
+    "lat": 0,
+    "lon": "125",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-126.spect.cyb.txt",
+    "lat": 0,
+    "lon": "126",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-127.spect.cyb.txt",
+    "lat": 0,
+    "lon": "127",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-128.spect.cyb.txt",
+    "lat": 0,
+    "lon": "128",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-129.spect.cyb.txt",
+    "lat": 0,
+    "lon": "129",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-130.spect.cyb.txt",
+    "lat": 0,
+    "lon": "130",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-131.spect.cyb.txt",
+    "lat": 0,
+    "lon": "131",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-132.spect.cyb.txt",
+    "lat": 0,
+    "lon": "132",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-133.spect.cyb.txt",
+    "lat": 0,
+    "lon": "133",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-134.spect.cyb.txt",
+    "lat": 0,
+    "lon": "134",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-135.spect.cyb.txt",
+    "lat": 0,
+    "lon": "135",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-136.spect.cyb.txt",
+    "lat": 0,
+    "lon": "136",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-137.spect.cyb.txt",
+    "lat": 0,
+    "lon": "137",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-138.spect.cyb.txt",
+    "lat": 0,
+    "lon": "138",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-139.spect.cyb.txt",
+    "lat": 0,
+    "lon": "139",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-140.spect.cyb.txt",
+    "lat": 0,
+    "lon": "140",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-141.spect.cyb.txt",
+    "lat": 0,
+    "lon": "141",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-142.spect.cyb.txt",
+    "lat": 0,
+    "lon": "142",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-143.spect.cyb.txt",
+    "lat": 0,
+    "lon": "143",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-144.spect.cyb.txt",
+    "lat": 0,
+    "lon": "144",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-145.spect.cyb.txt",
+    "lat": 0,
+    "lon": "145",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-146.spect.cyb.txt",
+    "lat": 0,
+    "lon": "146",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-147.spect.cyb.txt",
+    "lat": 0,
+    "lon": "147",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-148.spect.cyb.txt",
+    "lat": 0,
+    "lon": "148",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-149.spect.cyb.txt",
+    "lat": 0,
+    "lon": "149",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-150.spect.cyb.txt",
+    "lat": 0,
+    "lon": "150",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-151.spect.cyb.txt",
+    "lat": 0,
+    "lon": "151",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-152.spect.cyb.txt",
+    "lat": 0,
+    "lon": "152",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-153.spect.cyb.txt",
+    "lat": 0,
+    "lon": "153",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-154.spect.cyb.txt",
+    "lat": 0,
+    "lon": "154",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-155.spect.cyb.txt",
+    "lat": 0,
+    "lon": "155",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-156.spect.cyb.txt",
+    "lat": 0,
+    "lon": "156",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-157.spect.cyb.txt",
+    "lat": 0,
+    "lon": "157",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-158.spect.cyb.txt",
+    "lat": 0,
+    "lon": "158",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-159.spect.cyb.txt",
+    "lat": 0,
+    "lon": "159",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-160.spect.cyb.txt",
+    "lat": 0,
+    "lon": "160",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-161.spect.cyb.txt",
+    "lat": 0,
+    "lon": "161",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-162.spect.cyb.txt",
+    "lat": 0,
+    "lon": "162",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-163.spect.cyb.txt",
+    "lat": 0,
+    "lon": "163",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-164.spect.cyb.txt",
+    "lat": 0,
+    "lon": "164",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-165.spect.cyb.txt",
+    "lat": 0,
+    "lon": "165",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-167.spect.cyb.txt",
+    "lat": 0,
+    "lon": "167",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-168.spect.cyb.txt",
+    "lat": 0,
+    "lon": "168",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-169.spect.cyb.txt",
+    "lat": 0,
+    "lon": "169",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-170.spect.cyb.txt",
+    "lat": 0,
+    "lon": "170",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-171.spect.cyb.txt",
+    "lat": 0,
+    "lon": "171",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-172.spect.cyb.txt",
+    "lat": 0,
+    "lon": "172",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-173.spect.cyb.txt",
+    "lat": 0,
+    "lon": "173",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-174.spect.cyb.txt",
+    "lat": 0,
+    "lon": "174",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-175.spect.cyb.txt",
+    "lat": 0,
+    "lon": "175",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-176.spect.cyb.txt",
+    "lat": 0,
+    "lon": "176",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-177.spect.cyb.txt",
+    "lat": 0,
+    "lon": "177",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-178.spect.cyb.txt",
+    "lat": 0,
+    "lon": "178",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-179.spect.cyb.txt",
+    "lat": 0,
+    "lon": "179",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-180.spect.cyb.txt",
+    "lat": 0,
+    "lon": "180",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-181.spect.cyb.txt",
+    "lat": 0,
+    "lon": "181",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-182.spect.cyb.txt",
+    "lat": 0,
+    "lon": "182",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-183.spect.cyb.txt",
+    "lat": 0,
+    "lon": "183",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-184.spect.cyb.txt",
+    "lat": 0,
+    "lon": "184",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-185.spect.cyb.txt",
+    "lat": 0,
+    "lon": "185",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-186.spect.cyb.txt",
+    "lat": 0,
+    "lon": "186",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-187.spect.cyb.txt",
+    "lat": 0,
+    "lon": "187",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-188.spect.cyb.txt",
+    "lat": 0,
+    "lon": "188",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-189.spect.cyb.txt",
+    "lat": 0,
+    "lon": "189",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-241.spect.cyb.txt",
+    "lat": 0,
+    "lon": "241",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-240.spect.cyb.txt",
+    "lat": 0,
+    "lon": "240",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-239.spect.cyb.txt",
+    "lat": 0,
+    "lon": "239",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-238.spect.cyb.txt",
+    "lat": 0,
+    "lon": "238",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-237.spect.cyb.txt",
+    "lat": 0,
+    "lon": "237",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-242.spect.cyb.txt",
+    "lat": 0,
+    "lon": "242",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-236.spect.cyb.txt",
+    "lat": 0,
+    "lon": "236",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-235.spect.cyb.txt",
+    "lat": 0,
+    "lon": "235",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-234.spect.cyb.txt",
+    "lat": 0,
+    "lon": "234",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-233.spect.cyb.txt",
+    "lat": 0,
+    "lon": "233",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-232.spect.cyb.txt",
+    "lat": 0,
+    "lon": "232",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-243.spect.cyb.txt",
+    "lat": 0,
+    "lon": "243",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-231.spect.cyb.txt",
+    "lat": 0,
+    "lon": "231",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-230.spect.cyb.txt",
+    "lat": 0,
+    "lon": "230",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-229.spect.cyb.txt",
+    "lat": 0,
+    "lon": "229",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-228.spect.cyb.txt",
+    "lat": 0,
+    "lon": "228",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-244.spect.cyb.txt",
+    "lat": 0,
+    "lon": "244",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-227.spect.cyb.txt",
+    "lat": 0,
+    "lon": "227",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-226.spect.cyb.txt",
+    "lat": 0,
+    "lon": "226",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-225.spect.cyb.txt",
+    "lat": 0,
+    "lon": "225",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-224.spect.cyb.txt",
+    "lat": 0,
+    "lon": "224",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-223.spect.cyb.txt",
+    "lat": 0,
+    "lon": "223",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-222.spect.cyb.txt",
+    "lat": 0,
+    "lon": "222",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-245.spect.cyb.txt",
+    "lat": 0,
+    "lon": "245",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-221.spect.cyb.txt",
+    "lat": 0,
+    "lon": "221",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-220.spect.cyb.txt",
+    "lat": 0,
+    "lon": "220",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-219.spect.cyb.txt",
+    "lat": 0,
+    "lon": "219",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-218.spect.cyb.txt",
+    "lat": 0,
+    "lon": "218",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-217.spect.cyb.txt",
+    "lat": 0,
+    "lon": "217",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-216.spect.cyb.txt",
+    "lat": 0,
+    "lon": "216",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-215.spect.cyb.txt",
+    "lat": 0,
+    "lon": "215",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-214.spect.cyb.txt",
+    "lat": 0,
+    "lon": "214",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-213.spect.cyb.txt",
+    "lat": 0,
+    "lon": "213",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-212.spect.cyb.txt",
+    "lat": 0,
+    "lon": "212",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-211.spect.cyb.txt",
+    "lat": 0,
+    "lon": "211",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-210.spect.cyb.txt",
+    "lat": 0,
+    "lon": "210",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-209.spect.cyb.txt",
+    "lat": 0,
+    "lon": "209",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-208.spect.cyb.txt",
+    "lat": 0,
+    "lon": "208",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-207.spect.cyb.txt",
+    "lat": 0,
+    "lon": "207",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-206.spect.cyb.txt",
+    "lat": 0,
+    "lon": "206",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-205.spect.cyb.txt",
+    "lat": 0,
+    "lon": "205",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-204.spect.cyb.txt",
+    "lat": 0,
+    "lon": "204",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-203.spect.cyb.txt",
+    "lat": 0,
+    "lon": "203",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-202.spect.cyb.txt",
+    "lat": 0,
+    "lon": "202",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-201.spect.cyb.txt",
+    "lat": 0,
+    "lon": "201",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-CC-200.spect.cyb.txt",
+    "lat": 0,
+    "lon": "200",
+    "observer": "CC",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-166.spect.cyb.txt",
+    "lat": 0,
+    "lon": "166",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-199.spect.cyb.txt",
+    "lat": 0,
+    "lon": "199",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-198.spect.cyb.txt",
+    "lat": 0,
+    "lon": "198",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-197.spect.cyb.txt",
+    "lat": 0,
+    "lon": "197",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-196.spect.cyb.txt",
+    "lat": 0,
+    "lon": "196",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-195.spect.cyb.txt",
+    "lat": 0,
+    "lon": "195",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-194.spect.cyb.txt",
+    "lat": 0,
+    "lon": "194",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-193.spect.cyb.txt",
+    "lat": 0,
+    "lon": "193",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-192.spect.cyb.txt",
+    "lat": 0,
+    "lon": "192",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-191.spect.cyb.txt",
+    "lat": 0,
+    "lon": "191",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-190.spect.cyb.txt",
+    "lat": 0,
+    "lon": "190",
+    "observer": "HHG",
+    "processed": false
+  },
+  {
+    "file": "data/LACH-HHG-246.spect.cyb.txt",
+    "lat": 0,
+    "lon": "246",
+    "observer": "HHG",
+    "processed": false
+  }
+]
