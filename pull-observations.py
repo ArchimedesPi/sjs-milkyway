@@ -34,7 +34,10 @@ for obs in our_obs:
     obs_matches = re.match(OBS_REGEX+r'/\S*', obs)
     obs_file = 'data/' + 'LACH-' + obs_matches.group(1) + '-' + obs_matches.group(2) + '.spect.cyb.txt'
 
-    manifest.append({'lat': 0, 'lon': obs_matches.group(2), 'observer': obs_matches.group(1)})
+    manifest.append({'lat': 0, 'lon': obs_matches.group(2),
+                     'observer': obs_matches.group(1),
+                     'file': obs_file,
+                     'processed': False})
 
     print(Fore.GREEN + Style.BRIGHT + ("Downloading %s" % obs) + Style.RESET_ALL)
 
