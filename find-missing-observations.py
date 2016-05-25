@@ -6,10 +6,11 @@
 import json
 import re
 from bs4 import BeautifulSoup
+import sys
 
 from colorama import Fore, Back, Style
 
-OBS_REGEX = r'LACH-?(\w+)-?(\d+)'
+OBS_REGEX = r'LACH-?(\w+)-?(\d+)-?(\d+)?'
 
 print(Fore.GREEN + "Loading NRAO 20m log data")
 with open('./nrao-log.html') as f:
@@ -35,3 +36,5 @@ uncompleted_obs = set(range(0, 360 + 1)) - set(covered_lats)
 if len(uncompleted_obs) > 0:
     print(Fore.YELLOW + "Uncompleted observations:")
     print(uncompleted_obs)
+
+sys.stdout.write(Style.RESET_ALL)
