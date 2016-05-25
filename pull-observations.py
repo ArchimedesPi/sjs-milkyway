@@ -48,3 +48,4 @@ with open('datamanifest.json') as f:
     f.write(json.dumps(manifest, sort_keys=True, indent=2))
 
 sys.stdout.write(Style.RESET_ALL)
+
