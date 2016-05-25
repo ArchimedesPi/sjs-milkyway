@@ -41,10 +41,11 @@ for obs in our_obs:
 
     print(Fore.GREEN + Style.BRIGHT + ("Downloading %s" % obs) + Style.RESET_ALL)
 
-    response = requests.get(obs_url, stream=True)
+    r = requests.get(obs_url, stream=True)
+    total_len = int(r.headers.get('content-length'))
 
     with open(obs_file, 'wb') as f:
-        for data in tqdm(response.iter_content()):
+        for data in tqdm(r.iter_content(chunk_size=1024), total=(total_len/1024)+1):
             f.write(data)
 
 with open('datamanifest.json', 'w') as f:
