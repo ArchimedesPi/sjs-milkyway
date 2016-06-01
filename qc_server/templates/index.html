@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>peakfinding confirmation</title>
+    <link rel=stylesheet href="{{url_for('static', filename='style.css')}}">
+</head>
+<body>
+    <h1>Peakfinding confirmation</h1>
+    <h2>Currently confirming peakfind of "{{peakdatum['obsname']}}"</h2>
+
+    <img src="{{url_for('figure', observation_name=peakdatum['obsname'])}}" />
+
+    <span class="fl">
+        <form action="" method="post">
+            <input type="hidden" name="obsname" value="{{peakdatum['obsname']}}" />
+            <input type="submit" value="incorrect" name="correctness" id="incorrect-submit" />
+        </form>
+    </span>
+    <span class="fr">
+        <form action="" method="post">
+            <input type="hidden" name="obsname" value="{{peakdatum['obsname']}}" />
+            <input type="submit" value="correct" name="correctness" id="correct-submit" />
+        </form>
+    </span>
+</body>
+</html>
