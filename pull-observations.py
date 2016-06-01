@@ -36,6 +36,7 @@ for obs in our_obs:
 
     manifest.append({'lat': 0, 'lon': int(obs_matches.group(2)),
                      'observer': obs_matches.group(1),
+                     'obsname': 'LACH-' + obs_matches.group(1) + '-' + obs_matches.group(2),
                      'file': obs_file,
                      'processed': False})
 
