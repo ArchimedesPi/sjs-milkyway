@@ -22,13 +22,18 @@ def show_peaks(datum):
 
     peaks_x, peaks_y = zip(*datum['peaks'])
 
-    plt.plot(raw_x, raw_y, '--')
-    plt.plot(sx, sy, '-')
-    plt.scatter(peaks_x, peaks_y, s=60, marker='+', color='red')
-    plt.show()
+    fig = plt.figure()
+    ax = fig.add_subplot(111)
+    ax.plot(raw_x, raw_y, '--')
+    ax.plot(sx, sy, '-')
+    ax.scatter(peaks_x, peaks_y, s=60, marker='+', color='red')
+
+    return fig
 
 if __name__ == "__main__":
     with open('processmanifest.json') as f:
         manifest = json.load(f)
-        for datum in manifest:
-            show_peaks(datum)
+        for datum in manifest[0:5]:
+            show_peaks(datum).show()
+
+    plt.show()
