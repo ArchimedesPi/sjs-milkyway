@@ -33,20 +33,23 @@ def find_peaks(spectrum_slice):
 
     return list(zip(peaks_x, peaks_y))
 
-pmanifest = []
-with open('datamanifest.json') as f:
-	manifest = json.load(f)
-	
-	for datum in manifest:
-		print(datum)
 
-		spect = load_cybspect(datum['file'])
-		spect_roi = spect['XL1'][1420:1421]
-		datum['peaks'] = find_peaks(spect_roi)
-		datum['processed'] = True
-		datum['approved'] = False
+if __name__ == "__main__":
+    pmanifest = []
 
-		pmanifest.append(datum)
+    with open('datamanifest.json') as f:
+        manifest = json.load(f)
 
-with open('processmanifest.json', 'w') as f:
-	json.dump(pmanifest, f, sort_keys=True, indent=2)
+        for datum in manifest:
+            print(datum)
+
+            spect = load_cybspect(datum['file'])
+            spect_roi = spect['XL1'][1420:1421]
+            datum['peaks'] = find_peaks(spect_roi)
+            datum['processed'] = True
+            datum['approved'] = False
+
+            pmanifest.append(datum)
+
+    with open('processmanifest.json', 'w') as f:
+        json.dump(pmanifest, f, sort_keys=True, indent=2)

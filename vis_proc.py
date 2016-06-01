@@ -27,7 +27,8 @@ def show_peaks(datum):
     plt.scatter(peaks_x, peaks_y, s=60, marker='+', color='red')
     plt.show()
 
-with open('processmanifest.json') as f:
-    manifest = json.load(f)
-    for datum in manifest:
-        show_peaks(datum)
+if __name__ == "__main__":
+    with open('processmanifest.json') as f:
+        manifest = json.load(f)
+        for datum in manifest:
+            show_peaks(datum)
