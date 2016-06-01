@@ -9,7 +9,7 @@ from scipy.interpolate import UnivariateSpline
 from detect_peaks import detect_peaks
 from load_cybspect import load_cybspect
 
-def show_peaks(datum):
+def plot_peaks(datum):
     spect = load_cybspect(datum['file'])
     spect_roi = spect['XL1'][1420:1421]
     raw_x = spect_roi.index
@@ -34,6 +34,6 @@ if __name__ == "__main__":
     with open('processmanifest.json') as f:
         manifest = json.load(f)
         for datum in manifest[0:5]:
-            show_peaks(datum).show()
+            plot_peaks(datum).show()
 
     plt.show()
