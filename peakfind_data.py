@@ -47,7 +47,7 @@ if __name__ == "__main__":
             spect_roi = spect['XL1'][1420:1421]
             datum['peaks'] = find_peaks(spect_roi)
             datum['processed'] = True
-            datum['approved'] = False
+            datum['approved'] = None
 
             pmanifest.append(datum)
 
