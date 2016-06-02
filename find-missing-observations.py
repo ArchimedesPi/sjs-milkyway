@@ -37,4 +37,6 @@ if len(uncompleted_obs) > 0:
     print(Fore.YELLOW + "Uncompleted observations:")
     print(uncompleted_obs)
 
+print('completed: %d; uncomplted: %d' % (len(covered_lats), len(uncompleted_obs)))
+
 sys.stdout.write(Style.RESET_ALL)
