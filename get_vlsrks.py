@@ -23,4 +23,4 @@ if __name__ == "__main__":
 			print("%s: v_lsrk = %s" % (datum['obsname'], datum['v_lsrk']))
 
 	with open(sys.argv[1], 'w') as f:
-		json.dump(manifest, f)
+		json.dump(manifest, f, sort_keys=True, indent=2)
