@@ -3,6 +3,9 @@ import json
 
 from flask import Flask, render_template, send_file, request, redirect, url_for, session
 
+import matplotlib
+matplotlib.use('Agg')
+
 from vis_proc import plot_peaks
 
 app = Flask(__name__)

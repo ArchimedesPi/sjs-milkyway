@@ -5,7 +5,6 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.interpolate import UnivariateSpline
-import peakutils.peak
 
 from detect_peaks import detect_peaks
 from load_cybspect import load_cybspect
@@ -21,7 +20,7 @@ def find_peaks(spectrum_slice):
 
     # peak_indices = detect_peaks(sy, edge='rising',
                                 # kpsh=True, threshold=2, show=True)
-    peak_indices = detect_peaks(sy, mph=720, kpsh=True)
+    peak_indices = detect_peaks(sy, mph=1100, kpsh=True)
     # peak_indices = peakutils.peak.indexes(sy, min_dist=10)
     peaks_x = [sx[i] for i in peak_indices]
     peaks_y = [sy[i] for i in peak_indices]
