@@ -11,12 +11,12 @@ from vis_proc import plot_peaks
 app = Flask(__name__)
 app.secret_key = '|IBq\xd5$\x9f\x9f4MLG\x7f\xea\xdb\x98K\x93\xb1Ay\xa3\xe5\xaa'
 
-with open('approvalmanifest.json') as f:
+with open('repeakfindmanifest.json') as f:
     manifest = json.load(f)
 
 @app.route('/figure/<observation_name>.png')
 def figure(observation_name):
-    with open('approvalmanifest.json') as f:
+    with open('repeakfindmanifest.json') as f:
         manifest = json.load(f)
         datum = [x for x in manifest if x['obsname'] == observation_name][0]
         figure = plot_peaks(datum)
@@ -35,7 +35,7 @@ def root():
         elif request.form['correctness'] == 'incorrect':
             datum['approved'] = False
 
-        with open('approvalmanifest.json', 'w') as g:
+        with open('repeakfindmanifest.json', 'w') as g:
             json.dump(manifest, g, sort_keys=True, indent=2)
         
         return redirect(url_for('root'))

@@ -43,7 +43,8 @@ if __name__ == "__main__":
             print(datum)
 
             spect = load_cybspect(datum['file'])
-            spect_roi = spect['XL1'][1420:1421]
+            centerfreq = 1420
+            spect_roi = spect['XL1'][centerfreq-1.5:centerfreq+1.5]
             datum['peaks'] = find_peaks(spect_roi)
             datum['processed'] = True
             datum['approved'] = None

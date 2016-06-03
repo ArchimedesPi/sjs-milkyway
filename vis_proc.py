@@ -11,7 +11,7 @@ from load_cybspect import load_cybspect
 
 def plot_peaks(datum):
     spect = load_cybspect(datum['file'])
-    spect_roi = spect['XL1'][1420:1421]
+    spect_roi = spect['XL1'][1420-0.75:1420+0.75]
     raw_x = spect_roi.index
     raw_y = spect_roi.values
 
